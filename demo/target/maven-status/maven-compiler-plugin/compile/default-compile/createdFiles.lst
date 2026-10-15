@@ -1,1 +1,3 @@
-config\ProjectConfig.class
+com\easybytes\config\ProjectConfig.class
+com\easybytes\Beans\Vehicle.class
+com\easybytes\Main.class

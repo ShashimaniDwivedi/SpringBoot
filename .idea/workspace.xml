@@ -28,22 +28,33 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Example1.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.com.easybytes.ex1.Main.executor": "Debug",
+    "Maven.demo [clean].executor": "Run",
     "Maven.demo [install].executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ide.FileNotInSourceRootChecker.no.check": "true",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Manas/Desktop/SpringBoot",
+    "last_opened_file_path": "C:/Users/Manas/Desktop/SpringBoot/section/src/main/java/com/easybytes/ex1",
     "node.js.detected.package.jshint": "true",
     "node.js.selected.package.jshint": "",
     "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/Manas/Desktop/SpringBoot/demo/src/main/java/com/easybytes/Main.java",
+    "onboarding.tips.debug.path": "C:/Users/Manas/Desktop/SpringBoot/section/src/main/java/com/easybytes/Main.java",
     "settings.editor.selected.configurable": "configurable.group.appearance"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Manas\Desktop\SpringBoot\section\src\main\java\com\easybytes\ex1" />
+      <recent name="C:\Users\Manas\Desktop\SpringBoot\section2\src\main\java\com.easybytes.ex1" />
+      <recent name="C:\Users\Manas\Desktop\SpringBoot\section2\src\main\java" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.easybytes.Main" />
