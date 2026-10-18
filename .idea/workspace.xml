@@ -13,6 +13,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -30,6 +31,9 @@
   "keyToString": {
     "Application.Example1.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.Main2.executor": "Run",
+    "Application.Main3.executor": "Run",
+    "Application.Main4.executor": "Run",
     "Application.com.easybytes.ex1.Main.executor": "Debug",
     "Maven.demo [clean].executor": "Run",
     "Maven.demo [install].executor": "Run",
@@ -40,7 +44,7 @@
     "com.intellij.ide.FileNotInSourceRootChecker.no.check": "true",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Manas/Desktop/SpringBoot/section/src/main/java/com/easybytes/ex1",
+    "last_opened_file_path": "C:/Users/Manas/Desktop/SpringBoot/section/src/main/java/com/easybytes/ex2",
     "node.js.detected.package.jshint": "true",
     "node.js.selected.package.jshint": "",
     "nodejs_package_manager_path": "npm",
@@ -50,9 +54,13 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Manas\Desktop\SpringBoot\section\src\main\java\com\easybytes\ex2" />
       <recent name="C:\Users\Manas\Desktop\SpringBoot\section\src\main\java\com\easybytes\ex1" />
       <recent name="C:\Users\Manas\Desktop\SpringBoot\section2\src\main\java\com.easybytes.ex1" />
       <recent name="C:\Users\Manas\Desktop\SpringBoot\section2\src\main\java" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.easybytes.ex2" />
     </key>
   </component>
   <component name="RunManager">
