@@ -1,4 +1,4 @@
-package com.eazybytes.Jobporal.service;
+package com.eazybytes.Jobporal.company.service;
 
 import com.eazybytes.Jobporal.dto.CompanyDto;
 import com.eazybytes.Jobporal.entity.Company;

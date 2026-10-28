@@ -1,10 +1,10 @@
 
-package com.eazybytes.Jobporal.service.impl;
+package com.eazybytes.Jobporal.company.service.impl;
 
 import com.eazybytes.Jobporal.dto.CompanyDto;
 import com.eazybytes.Jobporal.entity.Company;
 import com.eazybytes.Jobporal.repository.CompanyRepository;
-import com.eazybytes.Jobporal.service.ICompanyService;
+import com.eazybytes.Jobporal.company.service.ICompanyService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 
